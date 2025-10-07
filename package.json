@@ -1,0 +1,52 @@
+{
+  "name": "@wowjob/util",
+  "version": "0.0.1",
+  "description": "A collection of shared utility functions and helpers for the WowJob.ai ecosystem.",
+  "author": "Marian Zburlea (https://github.com/marianzburlea)",
+  "license": "MIT",
+  "homepage": "https://github.com/wowjob/wowjob-util#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wowjob/wowjob-util.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wowjob/wowjob-util/issues"
+  },
+  "keywords": [
+    "wowjob",
+    "utils",
+    "helpers",
+    "typescript"
+  ],
+  "type": "module",
+  "sideEffects": false,
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "exports": {
+    ".": {
+      "import": "./dist/index.js",
+      "types": "./dist/index.d.ts"
+    }
+  },
+  "scripts": {
+    "clean": "rm -rf dist",
+    "build": "bun run clean && tsc --project tsconfig.json"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  },
+  "devDependencies": {
+    "@semantic-release/changelog": "^6.0.3",
+    "@semantic-release/git": "^10.0.1",
+    "@types/js-yaml": "^4.0.9",
+    "@wowjob/type": "latest",
+    "semantic-release": "^24.2.9",
+    "typescript": "^5.8.3"
+  }
+}
