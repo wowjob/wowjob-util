@@ -1,6 +1,6 @@
 {
   "name": "@wowjob/util",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A collection of shared utility functions and helpers for the WowJob.ai ecosystem.",
   "author": "Marian Zburlea (https://github.com/marianzburlea)",
   "license": "MIT",
