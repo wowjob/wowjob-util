@@ -1,9 +1,4 @@
-export {
-  getDomainAbbr,
-  removeArrayValue,
-  removeObjectKey,
-  getUTMSource,
-} from './data'
+export { removeArrayValue, removeObjectKey, getUTMSource } from './data'
 export {
   cleanHTML,
   dataValueNullToString,
