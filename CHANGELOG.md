@@ -1,3 +1,10 @@
+## [0.0.4](https://github.com/wowjob/wowjob-util/compare/v0.0.3...v0.0.4) (2025-10-08)
+
+
+### Bug Fixes
+
+* update wowjob type dep ([a548556](https://github.com/wowjob/wowjob-util/commit/a54855667f64bb9586e44984b4d5aadd64165876))
+
 ## [0.0.3](https://github.com/wowjob/wowjob-util/compare/v0.0.2...v0.0.3) (2025-10-08)
 
 
