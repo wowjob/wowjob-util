@@ -10,7 +10,7 @@
         "@semantic-release/changelog": "^6.0.3",
         "@semantic-release/git": "^10.0.1",
         "@types/js-yaml": "^4.0.9",
-        "@wowjob/type": "latest",
+        "@wowjob/type": "^0.0.3",
         "semantic-release": "^24.2.9",
         "tsup": "^8.5.0",
         "typescript": "^5.8.3",
@@ -188,7 +188,7 @@
 
     "@wowjob/css": ["@wowjob/css@0.3.3", "", {}, "sha512-c76fJS7bhP/V9IyXgyvx5r9pqnBOwu3gf9XWXse2iozn9Eni/yIKnmUqG4v+Qf1BbzpZaJ7GzNY1k2G1ZQF6Rg=="],
 
-    "@wowjob/type": ["@wowjob/type@0.0.2", "", { "dependencies": { "@wowjob/css": "latest" } }, "sha512-+gp1ZkryCckpUhbEFd+8nCJIlg8RRm4NEsO+v0fz3yOborHtvsKspXEcHI8BSoNw7TLiviglwwfW9TidF/Nt1Q=="],
+    "@wowjob/type": ["@wowjob/type@0.0.3", "", { "dependencies": { "@wowjob/css": "latest" } }, "sha512-JlrT7wiQzSCjtnharcGgjWg9SNx9FOP/HQ7TtvALZHU7Y4gw7MFpm0mU1HX5oahpY9o/ll2rtYL7wrDK7HnhFQ=="],
 
     "acorn": ["acorn@8.15.0", "", { "bin": { "acorn": "bin/acorn" } }, "sha512-NZyJarBfL7nWwIq+FDL6Zp/yHEhePMNnnJ0y3qfieCrmNvYct8uvtiV41UvlSe6apAfk0fY1FbWx+NwfmpvtTg=="],
 

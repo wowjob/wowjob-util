@@ -45,7 +45,7 @@
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/git": "^10.0.1",
     "@types/js-yaml": "^4.0.9",
-    "@wowjob/type": "latest",
+    "@wowjob/type": "^0.0.3",
     "semantic-release": "^24.2.9",
     "tsup": "^8.5.0",
     "typescript": "^5.8.3"
