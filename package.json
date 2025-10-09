@@ -1,6 +1,6 @@
 {
   "name": "@wowjob/util",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "A collection of shared utility functions and helpers for the WowJob.ai ecosystem.",
   "license": "MIT",
   "repository": {

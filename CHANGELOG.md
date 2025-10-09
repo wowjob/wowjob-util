@@ -1,3 +1,10 @@
+## [0.0.5](https://github.com/wowjob/wowjob-util/compare/v0.0.4...v0.0.5) (2025-10-09)
+
+
+### Bug Fixes
+
+* no more build on CI ([826ea93](https://github.com/wowjob/wowjob-util/commit/826ea937b7c69f421a6b3fd4b8af711eb996b8ec))
+
 ## [0.0.4](https://github.com/wowjob/wowjob-util/compare/v0.0.3...v0.0.4) (2025-10-08)
 
 
